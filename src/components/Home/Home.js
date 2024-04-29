@@ -8,8 +8,8 @@ import useMediaQuery from '../../hooks/useMediaQuery';
 const Home = () => {
   const {width} = useMediaQuery();
 
-  const aboutmeText1 = `My name is Sebastian, I like maths and solving problems, that is why I've got my Civil Engineer degree,
-  then worked as a structural designer so finally finding my true passion Developing Software.`;
+  const aboutmeText1 = `My name is Sebastian, I like maths and solving problems, and love to create things. That's why I got my Civil Engineer degree.
+  After doing some time as a structural designer, I found my true passion Developing Software.`;
 
   const aboutmeText2 = `I know, it's a long path, but definitely worthwhile. I'm a Software Developer based in Argentina. 
   Years ago, I was drawn to Software Development by the challenge of creating innovative solutions to real-world problems 
