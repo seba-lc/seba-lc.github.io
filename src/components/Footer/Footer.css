@@ -1,0 +1,9 @@
+.footer-style{
+  height: 60px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  background: #29313a;
+  background: -webkit-linear-gradient(to right, #1b2127, #38424d);
+  background: linear-gradient(to right, #161b20, #313942);
+  color: #F8F9FA;
+}
